@@ -25,7 +25,8 @@ This project demonstrates a phishing attack simulation for educational purposes,
 
 - HTML/CSS
 - JavaScript
-- Python
+- Python[crypto.pdf](https://github.com/user-attachments/files/17294467/crypto.pdf)
+
 - Reverse engineering tools (e.g., Ghidra, IDA Pro)
 
 ## Installation
