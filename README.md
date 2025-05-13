@@ -25,12 +25,8 @@ This project demonstrates a phishing attack simulation for educational purposes,
 
 - HTML/CSS
 - JavaScript
+- powershell 
 - Python[crypto.pdf](https://github.com/user-attachments/files/17294467/crypto.pdf)
 
 - Reverse engineering tools (e.g., Ghidra, IDA Pro)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ARESHAmohanad/reCAPTCHA.git
